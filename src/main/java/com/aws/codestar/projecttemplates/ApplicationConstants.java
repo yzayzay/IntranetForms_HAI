@@ -1,4 +1,4 @@
-package com.app;
+package com.aws.codestar.projecttemplates;
 
 public class ApplicationConstants {
   public static final String NEW_CUSTOMER_REQUEST = "newCustomerRequest";
