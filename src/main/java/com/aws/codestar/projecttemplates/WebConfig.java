@@ -1,4 +1,4 @@
-package com.app;
+package com.aws.codestar.projecttemplates;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
